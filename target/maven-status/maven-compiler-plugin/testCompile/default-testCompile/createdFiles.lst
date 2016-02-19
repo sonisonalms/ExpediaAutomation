@@ -1,0 +1,5 @@
+PageClasses/SearchPage.class
+TestCases/TestNG_TestCase.class
+TestCases/FlightSearchModel.class
+PageClasses/HotelSearchPage.class
+PageClasses/FlightSearchPage.class

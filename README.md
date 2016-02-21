@@ -20,5 +20,5 @@ Flight Search Page has elements for flight search items like Origin, Destination
 Package Search Page has elements for package search items like Origin, Destination location, Start & End date and Hotel + car by default selection.
 Hotel Search Page has elements for hotel search items like Destination location, Start & End date.
 
-Thanks
+Thanks<br/>
 Sonal Soni
